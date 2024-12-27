@@ -1,0 +1,2 @@
+# faliureJS
+js practice code 
